@@ -13,7 +13,3 @@ Criar um aplicativo simples para gerenciar tarefas diárias.
 - CSS
 - JavaScript
 
-## Como usar
-1. Clone este repositório:  
-   ```bash
-   git clone <URL_DO_REPOSITORIO>
